@@ -6,7 +6,7 @@ import base64
 MATERIALS_PATH = "materials"
 
 # App Title
-st.title("Probability and Statistics")
+st.title("ProbStat")
 st.title("-Ganapathi Karthik V")
 
 # Sidebar Navigation
